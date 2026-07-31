@@ -1,1 +1,2 @@
-# ingenieria_software_uade
+# INGENIERIA DE SOFTWARE
+Este repositorio se utilizará para subir: prácticos/código fuente/material adicional utilizados durante las clases.
